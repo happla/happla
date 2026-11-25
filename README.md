@@ -4,9 +4,6 @@ I'm an ICT Engineer student (Graduating in May 2027) specialising in **IoT and E
 
 I enjoy working close to the hardware, understanding how things work under the hood, and building practical solutions that combine software, electronics and infrastructure.
 
-### 💡 What Drives Me
-
-I enjoy learning by building, experimenting and solving problems. I'm particularly interested in projects where software meets hardware, and where reliability and understanding the underlying technology matter.
 
 ### 🏃 Beyond Technology
 
